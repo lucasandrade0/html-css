@@ -1,0 +1,14 @@
+header - cabeçalho
+
+nav - menu navegação
+
+main - estrutura principal
+
+article - artigo
+
+aside - complemento
+
+selection - seleção
+
+footer - rodapé
+
